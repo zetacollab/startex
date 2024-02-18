@@ -1,5 +1,5 @@
 /*
-Template: Techex - Information & Technology HTML Template
+Template: StartEx Services
 Author: RRDevs
 */
 
